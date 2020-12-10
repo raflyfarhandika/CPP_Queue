@@ -1,2 +1,2 @@
 # CPP_Queue
-CPP Queue
+Queue C++
